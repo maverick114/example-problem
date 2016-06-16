@@ -37,6 +37,8 @@ def run_tests():
 
 
 # Edit this function:
-def troll_count(n):
+def troll_count(n):]
+
+#These are the changes I have made.
 
     return
